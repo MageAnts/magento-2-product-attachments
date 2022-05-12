@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Product Attachments Extension</h2>
+				<h1>Magento 2 Product Attachments Extension</h1>
 				<p><strong><a href="https://www.mageants.com/product-attachments-extension-for-magento-2.html">Magento 2 Product Attachments Extension</a></strong> provides a space on sites to upload different documents related to their store licence, product specification, certificates, user guide, etc to enhance customer experience toward the store. Store owners easily upload useful documents anywhere on any product page.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Enhance customer experience with informative product pages.</li>
 						<li>Make categories for each document.</li>
